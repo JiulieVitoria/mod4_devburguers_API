@@ -273,7 +273,7 @@ Para acessar nossa API na Heroku, clique aqui: https://devburguers.herokuapp.com
 <td align="center">
 <td align="center">
       <a href="https://www.linkedin.com/in/jiulie-vitoria/">
-        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGN5GiqUP7Eyw/profile-displayphoto-shrink_800_800/0/1648772959000?e=1665014400&v=beta&t=yxR7OKmIpSXIZ-pkoU7YoG-9r58H3oCiwEuGwN6-Mcg" width="100px;" alt="Foto de Jiulie no Linkedin"/><br>
+        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEWrPuwWldUYw/profile-displayphoto-shrink_800_800/0/1660876904570?e=1666828800&v=beta&t=0tY3gMaPsCkVyyKYQUjfege0dczVOuudJ0hyfNji4i4" width="100px;" alt="Foto de Jiulie no Linkedin"/><br>
         <sub>
           <b>Jiulie Vitória</b>
         </sub>
